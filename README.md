@@ -1,1 +1,1 @@
-# Inferencia-Estad-stica-Taller
+# Inferencia Estadística
