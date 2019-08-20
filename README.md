@@ -6,3 +6,5 @@ Taller 1: Eficiencia computacional
 * [Julia vs R y Python](https://nbviewer.jupyter.org/github/hairo1421/Inferencia-Estadistica-Taller/blob/master/Taller%201/Julia%20vs%20R%20and%20Python.ipynb)
 
 * [R vs Python](https://nbviewer.jupyter.org/github/hairo1421/Inferencia-Estadistica-Taller/blob/master/Taller%201/R%20vs%20Python.ipynb)
+
+* [Distribuciones Discretas]()
