@@ -7,4 +7,4 @@ Taller 1: Eficiencia computacional
 
 * [R vs Python](https://nbviewer.jupyter.org/github/hairo1421/Inferencia-Estadistica-Taller/blob/master/Taller%201/R%20vs%20Python.ipynb)
 
-* [Distribuciones Discretas]()
+* [Distribuciones Discretas](https://nbviewer.jupyter.org/github/hairo1421/Inferencia-Estadistica-Taller/blob/master/Taller%201.R)
